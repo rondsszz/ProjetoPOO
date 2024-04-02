@@ -16,3 +16,9 @@ Este programa é um jogo de palavras em Java utilizando meus conhecimentos de Pr
 - O programa permite ao usuário arriscar acertar a palavra inteira como maneira de adiantar o jogo em cenários em que o usuário já sabe a palavra antes de colocar todas as letras
 - O programa conta com modos de dificuldade como maneira de deixar o jogo de palavras mais desafiador e lúdico
 - O programa é dividido em classes, para facilitar a leitura do código
+
+
+## Resumo de cada classe:
+
+# JogoDePalavras.java:
+- Esta classe contém o método main e é a classe principal do jogo. Ela instancia e inicia o jogo em dois modos diferentes: normal e difícil.
