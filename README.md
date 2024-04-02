@@ -24,13 +24,13 @@ Este programa é um jogo de palavras em Java utilizando meus conhecimentos de Pr
 - Esta classe contém o método main e é a classe principal do jogo. Ela instancia e inicia o jogo em dois modos diferentes: normal e difícil.
 
 ## Jogo.java:
-Esta classe representa o jogo em si. Ela gerencia a seleção aleatória de uma palavra a ser adivinhada, a interação com o jogador e o controle do estado do jogo.
+- Esta classe representa o jogo em si. Ela gerencia a seleção aleatória de uma palavra a ser adivinhada, a interação com o jogador e o controle do estado do jogo.
 
 ## Palavra.java:
-Esta classe representa uma palavra a ser adivinhada no jogo. Ela mantém o estado da palavra (letras adivinhadas e não adivinhadas) e fornece métodos para revelar letras e verificar se a palavra foi adivinhada.
+- Esta classe representa uma palavra a ser adivinhada no jogo. Ela mantém o estado da palavra (letras adivinhadas e não adivinhadas) e fornece métodos para revelar letras e verificar se a palavra foi adivinhada.
 
 ## MusicasGraduation.java:
-Esta classe fornece uma lista de músicas do álbum "Graduation" de Kanye West, que são usadas como palavras a serem adivinhadas no jogo.
+- Esta classe fornece uma lista de músicas do álbum "Graduation" de Kanye West, que são usadas como palavras a serem adivinhadas no jogo.
 
 ## ModoDeJogo.java:
-Esta classe define os modos de jogo disponíveis (normal e difícil) e fornece um método para obter o número de tentativas restantes com base no modo selecionado.
+- Esta classe define os modos de jogo disponíveis (normal e difícil) e fornece um método para obter o número de tentativas restantes com base no modo selecionado.
